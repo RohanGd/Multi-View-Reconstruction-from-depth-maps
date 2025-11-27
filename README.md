@@ -1,5 +1,5 @@
-﻿# 3dCV-exercise POINT CLOUD GENERATION
-This project is the solution to the exercise for the course 3D COmputer Vision Held at RPTU - KL. 
+﻿# 3dCV-projekt Point Cloud Generation
+
 8 distorted images were given and 7 features (same, but randomly shuffled) were given for each view. Along with this camera intrinsics were given and the distortion params as well. The depth images were also given.
 
 Step 1.
@@ -13,3 +13,4 @@ Perform triangulation using correspondences and get 3d points for the features.
 
 Step4.
 Use scale from depth images to get actual 3d points for all pixels and create 3d point cloud.
+
